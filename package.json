@@ -28,7 +28,7 @@
       },
       ">=1.2.0": {
         "cordova": ">=5.0.0",
-        "cordova-android": "<6.3.0"
+        "cordova-android": "=7.0.0"
       }
     }
   },
